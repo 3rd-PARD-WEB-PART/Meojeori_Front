@@ -8,19 +8,19 @@
 
 ## 핵심 기능 소개
 
-### <a href = "">Login 기능</a>
+### <a href = "https://github.com/3rd-PARD-WEB-PART/Meojeori_Front/tree/main/meojeori/src/Pages/Login">Login 기능</a>
 
 : Google 계정으로 로그인할 수 있다. 
 
-### <a href = "">피드 열람 기능</a>
+### <a href = "https://github.com/3rd-PARD-WEB-PART/Meojeori_Front/blob/main/meojeori/src/Pages/MainPage/MainPage.js">피드 열람 기능</a>
 
 : 유저들이 올린 챌린지 내역을 확인할 수 있다.
 
-### <a href = "">챌린지 추가 기능</a>
+### <a href = "https://github.com/3rd-PARD-WEB-PART/Meojeori_Front/blob/main/meojeori/src/Pages/WritingPage/WritingPage.js">챌린지 추가 기능</a>
 
 : 유저가 본인의 챌린지를 경험을 업로드 할 수 있다. 
 
-### <a href = "">마이 페이지 기능</a>
+### <a href = "https://github.com/3rd-PARD-WEB-PART/Meojeori_Front/blob/main/meojeori/src/Pages/Mypage/Mypage.js">마이 페이지 기능</a>
 
 : 나의 정보와, 내가 업로드 한 챌린지 내역을 확인할 수 있다.
 <br>
